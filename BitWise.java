@@ -27,7 +27,7 @@ public class BitWise
     //output
     System.out.println("Result of doing " + a + " XOR " + b + " is " + result);
     
-   
+   System.out.println("End of the program");
 	}
 	//end main
 }//end class
